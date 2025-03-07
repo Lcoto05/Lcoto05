@@ -4,7 +4,7 @@ Hi! My name is Leticia Coto
 Computer Science Student
 ------------------------
 
-My introduction to coding was through a web development course I took in high school, where I found myself enjoying the creativity and problem-solving aspects of creating projects. I am now a computer science student graduating in December 2024. I am most proficient in Java and Python. My goal is to continue learning and improving my skills to ultimately become a software developer!
+My introduction to coding was through a web development course I took in high school, where I found myself enjoying the creativity and problem-solving aspects of creating projects. I am now a computer science student graduating in April 2025. I am most proficient in Java, Python, and SQL. My goal is to continue learning and improving my skills to ultimately become a data analyst!
 
 * 🌍  I'm based in Miami, FL, United States
 * ✉️  You can contact me at [leticiacoto05@gmail.com](mailto:leticiacoto05@gmail.com)
